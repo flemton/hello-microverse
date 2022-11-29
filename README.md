@@ -13,9 +13,6 @@ REQUIRED SECTIONS:
   - Live Demo
 - Getting Started
 - Authors
-- Future Features
-- Contributing
-- Show your support
 - Acknowledgements
 - License
 
@@ -27,7 +24,7 @@ After you're finished please remove all the comments and instructions!
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello Microverse</b></h3>
 
 </div>
 
@@ -48,16 +45,13 @@ After you're finished please remove all the comments and instructions!
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hello Microverse] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
@@ -123,6 +117,7 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
+- [Node LTS](https://nodejs.org/en/download/)
 
 <!--
 Example command:
@@ -147,7 +142,7 @@ Example commands:
 
 ### Install
 
-Install this project with:
+After cloning the repo, you only need to install dependencies with `npm install` command in the root directory of the project
 
 <!--
 Example command:
@@ -161,7 +156,7 @@ Example command:
 ### Usage
 
 To run the project, execute the following command:
-
+`npm start`
 <!--
 Example command:
 
@@ -169,10 +164,6 @@ Example command:
   rails server
 ```
 --->
-
-### Run tests
-
-To run tests, run the following command:
 
 <!--
 Example command:
@@ -204,15 +195,8 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@flemton](https://github.com/flemton)
+- LinkedIn: [Alhassan Osman](https://www.linkedin.com/in/alhassan-o-83039a80/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -242,9 +226,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project or would like to say hi, contact me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -252,9 +234,9 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank:
+- [Felipe Haybar](https://github.com/Feliverse)
+- [Nilton Noé Segura Lucas]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -264,13 +246,13 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **How to install Node?**
 
-  - [Answer_1]
+  - Head over to [Node LTS Download](https://nodejs.org/en/download/) page.
 
-- **[Question_2]**
+- **Which Node version should you install?**
 
-  - [Answer_2]
+  - The latest Node LTS (Long Term Support) on the Node downloads page
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
