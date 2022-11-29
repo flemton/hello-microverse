@@ -236,7 +236,7 @@ If you like this project or would like to say hi, contact me.
 
 I would like to thank:
 - [Felipe Haybar](https://github.com/Feliverse)
-- [Nilton Noé Segura Lucas]()
+- [Nilton Noé Segura Lucas](https://github.com/Nkaleth)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
